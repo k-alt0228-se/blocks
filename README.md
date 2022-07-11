@@ -1,12 +1,12 @@
-# blocks
-A compilation of my work in Scratch and Snap!
+# blocks at Snap!
+A compilation of my work wit blocky code.
 
-  I find Scratch to be a very accepting and social community to share code and learn, however, over the years it has become so much more similar to other social media sites and that disappoints me. Snap! on the other hand, I wish was more social. I think the only social feature I want for Snap!, though, is hidden following. Like you could follow people to create a custom feed and get notifications when they post new projects or add something to a collection, but there is no way to see how many followers you or anyone else has - that data just isn't stored. I agree with the Snap! team that computer science is not a popularity contest and likes, favorites, and views don't help a maker improve a project. But comments can! And custom feeds can inspire creators to do what they love and learn at the same time.
+  Find the full README.md in the main repository branch.
   
-  To my point, basically this is going to hold downloads of my Snap! and Scratch projects to share them in a place that is actually my favorite. GitHub kinda makes me unreasonably happy compared to Scratch. I don't want to care about how many views I have on a Scratch project or how a Snap! project would be so much harder to make in Scratch if I just have a place for both.
+  An XML file is an extensible markup language file they are used to structure data for storage and transport. Most browsers can open and read .xml files. [learn more here](https://www.freecodecamp.org/news/what-is-an-xml-file-how-to-open-xml-files-and-the-best-xml-viewers/#:~:text=If%20all%20you%20need%20to,%22%20then%20click%20%22Chrome%22.)
   
-  Scratch:
-  K_alt0228_se and k-alt-se
+  ## Scratch:
+  **K_alt0228_se** and **k-alt-se**
   
-  Snap!:
-  k-alt0228-se
+  ## Snap!:
+  **k-alt0228-se**
