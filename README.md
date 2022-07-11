@@ -7,7 +7,7 @@ A compilation of my work in Scratch
   
   .sb3 files can only be opened in and run on Scratch, some projects will have been posted with additional file types available (such as .html or .exe)
   
-  To find information about the projects & links to the project page on the Scratch website, go to the archived section in the projects tab. (the archived section can be accessed by clicking the 3 dots in the upper right-hand corner of the project and then selecting "Archived")
+  To find information about the projects & links to the project page on the Scratch website, go to the archived section in the projects tab (the archived section can be accessed by clicking the 3 dots in the upper right-hand corner of the project and then selecting "Archived").
   
   ## Scratch:
   **K_alt0228_se** and **k-alt-se**
